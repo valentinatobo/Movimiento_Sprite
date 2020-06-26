@@ -11,11 +11,11 @@ La implementación del patrón se dio haciendo una adaptación de un personaje e
 
 ## Datos de la ejecución del Programa :mag_right:
 
-### Cambiar de personaje 
+### Cambiar de personaje :two_men_holding_hands:
 Para elegir si se quiere un personaje clasico del programa o si se quiere el nuevo personaje, al ejecutar el programa se preguntara al cliente que dependiendo del personaje ingrese una letra, para el personaje nuevo sera n y para el personaje clasico sera c. 
 
-![personajeclasico]()
-![personaje nuevo]()
+![personajeclasico](https://github.com/valentinatobo/Movimiento_Sprite/blob/master/imagenes/logos/personajeclasico.PNG)
+![personaje nuevo](https://github.com/valentinatobo/Movimiento_Sprite/blob/master/imagenes/logos/nuevopersonaje.PNG)
 
 
 
